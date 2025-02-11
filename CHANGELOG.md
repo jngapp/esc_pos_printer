@@ -1,5 +1,5 @@
 
-** [0.1.0] 
+** [0.1.0] - [0.1.1] 
 - Fiz misspells upercase sizeX <> Sizex
 ## [0.0.2] - [0.0.3]
 - Improve points 
