@@ -11,11 +11,11 @@ dependencies:
   charset_converter: ^2.1.1
   
 
-  # esc_pos_utils_plus: 
-  #   git: 
-  #     url: https://github.com/jngapp/esc_pos_utils_plus
-  esc_pos_utils_plus:  
-    path: ../esc_pos_utils_plus
+  esc_pos_utils_plus: 
+    git: 
+      url: https://github.com/jngapp/esc_pos_utils_plus
+  # esc_pos_utils_plus:  
+  #   path: ../esc_pos_utils_plus
   flutter:
     sdk: flutter
   image: ^4.0.02
