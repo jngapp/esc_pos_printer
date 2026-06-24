@@ -11,9 +11,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   esc_pos_printer:
     path: ../
-  esc_pos_utils_plus: 
-    git: 
-      url: https://github.com/jngapp/esc_pos_utils_plus
+  esc_pos_utils_plus:  
+    path: ../../esc_pos_utils_plus
   flutter:
     sdk: flutter
   image: ^4.1.3

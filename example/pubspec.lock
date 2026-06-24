@@ -99,11 +99,9 @@ packages:
   esc_pos_utils_plus:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "98c2655508c00af7f99bbb1a82051a5ec4d60933"
-      url: "https://github.com/jngapp/esc_pos_utils_plus"
-    source: git
+      path: "../../esc_pos_utils_plus"
+      relative: true
+    source: path
     version: "2.0.4"
   fake_async:
     dependency: transitive
